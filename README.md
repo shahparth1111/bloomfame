@@ -92,5 +92,5 @@ Proprietary - All rights reserved.
 
 ## 👤 Author
 Parth Shah  
-Founder, CEO and Software Inventor
+Founder, CEO and Software Inventor  </br>
 Smatter LLP | Smatter Corporation
